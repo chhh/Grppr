@@ -1,3 +1,5 @@
+Please visit https://chhh.github.io/IMTBX/ for more details.
+
 # Grppr
 **Grppr (Grouper)** - Software for general 2D isotopic grouping. Can be applied
 to LC-MS (liquid chromatography) or IM-MS (ion mobility) datasets. For LC-MS
@@ -11,7 +13,7 @@ for more info.
 
 ## Downloads
 Precompiled binaries of Grppr and IMTBX are available in the
-[Releases](https://github.com/chhh/IMTBX/releases/latest) section.
+[Releases section of IMTBX repository](https://github.com/chhh/IMTBX/releases/latest).
 
 
 ## Documentation / More info
